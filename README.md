@@ -96,4 +96,4 @@ computational resources, and project timelines.
 ---
 
 ## 📌 Project Status
-**Completed** – Interview-ready and GitHub-ready NLP project
+**Completed** 
